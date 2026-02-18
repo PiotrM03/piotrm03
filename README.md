@@ -7,7 +7,7 @@ A Junior ML engineer focusing on building end-to-end systems, specialising in da
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,flask,fastapi,html,css,js,git,heroku,mysql,aws" />
+  <img src="https://skillicons.dev/icons?i=py,java,flask,fastapi,html,css,js,git,heroku,mysql,aws" />
 </p>
 
 <hr>
